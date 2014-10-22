@@ -1,0 +1,29 @@
+{
+  "name": "tika-jar",
+  "version": "1.6",
+  "description": "Apache Tika jar file only for usage in your project via npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beyondcompute/tika-jar.git"
+  },
+  "keywords": [
+    "tika",
+    "pdf",
+    "doc",
+    "docx",
+    "xls",
+    "metadata",
+    "parse",
+    "extract"
+  ],
+  "author": "",
+  "license": "Apache License, Version 2.0",
+  "bugs": {
+    "url": "https://github.com/beyondcompute/tika-jar/issues"
+  },
+  "homepage": "https://github.com/beyondcompute/tika-jar"
+}
